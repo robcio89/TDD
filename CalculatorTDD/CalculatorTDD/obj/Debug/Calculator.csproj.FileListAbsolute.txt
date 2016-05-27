@@ -1,0 +1,4 @@
+D:\projects\C#\CalculatorTDD\CalculatorTDD\bin\Debug\CalculatorTDD.dll
+D:\projects\C#\CalculatorTDD\CalculatorTDD\bin\Debug\CalculatorTDD.pdb
+D:\projects\C#\CalculatorTDD\CalculatorTDD\obj\Debug\CalculatorTDD.dll
+D:\projects\C#\CalculatorTDD\CalculatorTDD\obj\Debug\CalculatorTDD.pdb
