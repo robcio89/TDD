@@ -1,7 +1,7 @@
 D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\Calculator.Tests.dll
 D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\CalculatorTDD.dll
+D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\CalculatorTDD.pdb
 D:\projects\C#\CalculatorTDD\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
 D:\projects\C#\CalculatorTDD\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 D:\projects\C#\CalculatorTDD\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
-D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\CalculatorTDD.dll
-D:\projects\C#\CalculatorTDD\Calculator.Tests\bin\Debug\CalculatorTDD.pdb

@@ -108,6 +108,14 @@ namespace CalculatorTests
             Assert.IsTrue(wasEventCalled);
         }
 
+        [TestMethod]
+        public async void DivideAsyncTest()
+        {
+            var calculator = new Calculator();
+            float quotient = await calculator.DivideAsync(10, 2);
+            Assert.AreSame(5, quotient);
+        }
+
         //[TestCase(4, 2, 2.0f)]
         //[TestCase(-4, 2, -2.0f)]
         //[TestCase(4, -2, -2.0f)]

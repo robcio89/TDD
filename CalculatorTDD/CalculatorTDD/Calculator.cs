@@ -28,6 +28,16 @@ namespace CalculatorTDD
             return result;
         }
 
+        public async Task<float> DivideAsync(double dividend, double divisor)
+        {
+            if (divisor == 0) throw new DivideByZeroException();
+
+            await Task.Delay(millisecondsDelay: 1000)
+                      .ConfigureAwait(continueOnCapturedContext: false);
+
+            return (float)dividend / (float)divisor;
+        }
+
         protected virtual void OnCalculated()
         {
             var handler = CalculatedEvent;
